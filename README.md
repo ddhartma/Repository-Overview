@@ -2,18 +2,80 @@
 [image1]: assets/1.png
 
 # Repository Overview
-In this repo I provide an oveview of my Github repositories
-## Content
-- [Introduction](#intro)
+In this repo I provide an oveview of my Github repositories, useful links, publications etc.
 
-- [Setup Instructions](#Setup_Instructions)
-- [Acknowledgments](#Acknowledgments)
-- [Further Links](#Further_Links)
+## Data Science
+- [Practical-Statistics](https://github.com/ddhartma/Practical-Statistics): Theory - Practical Data Science Statistics 
+- [CRISP-DM-reusable-template](https://github.com/ddhartma/CRISP-DM-reusable-template): Theory - A reusable template for a standard CRISP-DM analysis 
+- [Spotify-dataset-analysis-160kTracks-1921-2020](https://github.com/ddhartma/Spotify-dataset-analysis-160kTracks-1921-2020):  A song popularity study of 160k Spotify tracks between 1921-2020 via CRISP-DM
+- [ETL-Pipelines](https://github.com/ddhartma/ETL-Pipelines): Theory - Implementation of Data Engineering via ETL pipelines 
+- [NLP-Pipelines](https://github.com/ddhartma/NLP-Pipelines): Theory - Implementation of Data Engineering via NLP-Pipelines 
+- [ML-Pipelines](https://github.com/ddhartma/ML-Pipelines): Theory - Implementation of Machine Learning pipelines 
+- [Disaster-Response-Pipeline-Project](https://github.com/ddhartma/Disaster-Response-Pipeline-Project): Project - Create a machine learning pipeline to support emergency workers during natural disasters 
+- [Data-Science-Web-Development](https://github.com/ddhartma/Data-Science-Web-Development): Project - Simple Flask Web Development Setup for Data Science 
+- [Data-Science-Web-Deployment](https://github.com/ddhartma/Data-Science-Web-Deployment): Deploy a web app on Heroku 
+- [Experiment-Design](https://github.com/ddhartma/Experiment-Design): Theory - How to develop an Experimental Design
+- [Matrix-Factorization-For-Recommendations](https://github.com/ddhartma/Matrix-Factorization-For-Recommendations): How to use machine learning techniques for recommendation engines 
+- [Recommendation-Engines](https://github.com/ddhartma/Recommendation-Engines): Theory - How to build  Recommendation Engines 
+- [Recommendations-with-IBM](https://github.com/ddhartma/Recommendations-with-IBM): Project - Create an Article Recommendation Engine for users on the IBM Watson Studio platform 
+- [Spark-Big-Data-Analytics](https://github.com/ddhartma/Spark-Big-Data-Analytics): Theory - Spark tool for fast Big Data Analystics 
+- [Spark-Machine-Learning](https://github.com/ddhartma/Spark-Machine-Learning): Theory - How to use Sparks Machine Learning tools for Big Data 
+- [Sparkify-Project](https://github.com/ddhartma/Sparkify-Project): Project - An Apache Spark Big Data Project to predict users who are going to churn from a web service
+- [Machine Learning](#machine_learning)
+- [Machine Learning Concepts](https://github.com/ddhartma/Machine-Learning-Concepts): Theory -  Important Machine Learning algorithms 
 
-## Introduction <a name="intro"></a>
+## Deep Learning
+- [Deep Learning with PyTorch](https://github.com/ddhartma/deep-learning-v2-pytorch): Project - Forked Udacity Projects based on Deep Learning
+- [Dog-Breed-Classifier](https://github.com/ddhartma/Dog-Breed-Classifier): Project - Deep Learning Neural Network algorithm that identifies the canine’s breed of a dog image and the resembling dog breed for a human face image 
+- [TV-Script-Generator](https://github.com/ddhartma/TV-Script-Generator): Project - A Deep Neural Network which generates a new "fake" TV script, based on patterns of text based training data 
+- [time-series-prediction-lstm-pytorch](https://github.com/ddhartma/time-series-prediction-lstm-pytorch): Project - Time Series Prediction with LSTM Using PyTorch forked from spdin
+- [Face-Generation-with-DCGANs](https://github.com/ddhartma/Face-Generation-with-DCGANs): Project - Generate new fake images of faces that look as realistic as possible 
+- [PyTorch-GAN](https://github.com/ddhartma/PyTorch-GAN): Project - GAN collection forked from eriklindernoren
+- [ImprovedGAN-pytorch](https://github.com/ddhartma/ImprovedGAN-pytorch): Project - Semi-supervised GAN forked from Sleepychord
+- [Sentiment-Analysis-with-AWS-Sagemaker](https://github.com/ddhartma/Sentiment-Analysis-with-AWS-Sagemaker): Project - An AWS SageMaker deployed RNN performing sentiment analysis on movie reviews 
+- [Around-the-World-Classifier](https://github.com/ddhartma/Around-the-World-Classifier): Classify images via transfer learning, extract meta data and filter images for a web app photo gallery 
 
-## Acknowledgments <a name="Acknowledgments"></a>
-* This project is part of the Udacity Nanodegree program 'Deep Reinforcement Learning'. Please check this [link](https://www.udacity.com) for more information.
+
+## Deep Reinforcement Learning
+### Intro 
+- [Deep-Reinforcement-Learning-Theory-Intro](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Intro): Theory - An Introduction to Deep Reinforcement Learning 
+- [Deep-Reinforcement-Learning-Theory-Chrash-Course](https://medium.com/@nisheed/udacity-deep-reinforcement-learning-project-1-navigation-d16b43793af5): Theory - Another intro (from Mr Nisheed Rama) to Deep RL
+- [An-Introduction-to-Deep-Reinforcement-Learning](https://thomassimonini.medium.com/an-introduction-to-deep-reinforcement-learning-17a565999c0c): Theory - nother intro (from Mr Thomas Simonini) to Deep RL
+- [Deep-Reinforcement-Learning-Theory-Monte-Carlo-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Monte-Carlo-Methods): Theory - Overview of Monte Carlo Methods 
+- [Deep-Reinforcement-Learning-Theory-Temporal-Difference-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Temporal-Difference-Methods): Theory - Overview of Temporal Difference Methods 
+- [Deep-Reinforcement-Learning-Project-OpenAI-Gym-Taxi-v2](https://github.com/ddhartma/Deep-Reinforcement-Learning-Project-OpenAI-Gym-Taxi-v2): Project - Implementation of Q-LEarning - Navigate a taxi with multitasks in a 5x5 grid world 
+- [Deep-Reinforcement-Learning-Theory-Continuous_Spaces](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Continuous_Spaces): Theory - Overview of RL in Continuous Spaces (Discretization, Tile Coding and Linear Function Approximation)
+
+### Value-Based Methods
+- [Deep-Reinforcement-Learning-Theory-Deep-Q-Networks](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Deep-Q-Networks): Theory - From RL to Deep RL 
+- [Deep-Reinforcement-Learning-Project-OpenAI-Gym-LunarLander-v2](https://github.com/ddhartma/Deep-Reinforcement-Learning-Project-OpenAI-Gym-LunarLander-v2): Project - OpenAI Gym - Example for DQN - LunarLander-v2 
+- [Deep-Reinforcement-Learning-Project-Unity-Banana-DQN](https://github.com/ddhartma/Deep-Reinforcement-Learning-Project-Unity-Banana-DQN): Project - Unity - Banana Navigation with DQN 
+
+### Policy Based Methods
+- [Deep-Reinforcement-Learning-Theory-Policy-Based-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Policy-Based-Methods): Theory - Overview of Policy Based Methods 
+- [Deep-Reinforcement-Learning-Theory-Policy-Gradient-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Policy-Gradient-Methods): Theory - Overview of Policy Gradient Methods 
+- [Deep-Reinforcement-Learning-Theory-Proximal-Policy-Optimization](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Proximal-Policy-Optimization): Theory - Overview of Proximal Policy Optimization 
+### Actor-Critic Methods
+- [Deep-Reinforcement-Learning-Theory-Actor-Critic-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Actor-Critic-Methods): Theory - Overview of Actor-Critic Methods 
+- [Deep-Reinforcement-Learning-Project-Continuous-Control](https://github.com/ddhartma/Deep-Reinforcement-Learning-Project-Continuous-Control): Project - Unity - Continuous Control with Actor-Critic Networks 
+
+### Multi-Agent Reinforcement Learning
+- [Deep-Reinforcement-Learning-Theory-Multi-Agent-Reinforcement-Learning](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Multi-Agent-Reinforcement-Learning): Theory - Overview of Multi-Agent RL 
+- [Deep-Reinforcement-Learning-Theory-AlphaZero](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-AlphaZero): Theory - Overview of AlphaZero algorithm
+- [Deep-Reinforcement-Learning-Project-Collaboration-and-Competition](https://github.com/ddhartma/Deep-Reinforcement-Learning-Project-Collaboration-and-Competition): Project - Unity - Collaboration and Competition - Tennis-Agents
+
+
+
+## Useful helpers
+- [Virtual-Environments](https://github.com/ddhartma/Virtual-Environments): Theory - Short overview on creating virtual environments 
+- [PyPi-Package-Upload](https://github.com/ddhartma/PyPi-Package-Upload): Theory - Description to upload a package to Pypi 
+- [Coding-Snippet-Collections ](https://github.com/ddhartma/Coding-Snippet-Collections): A collection of helpful code snippets 
+
+## Others
+- [Django-Webserver-Project](https://github.com/ddhartma/Django-Webserver-Project): Classify and organize images via Imagenet, Yolo, GPS and DateTime using a Django Webserver Environment 
+- [AudioKit](https://github.com/ddhartma/AudioKit): Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS forked from AudioKit
+- [lighthouse](https://github.com/ddhartma/lighthouse): Project - Auditing, performance metrics, and best practices for Progressive Web Apps forked from GoogleChrome/lighthouse 
+- [Explore-US-Bikeshare-Data ](): Project - Explore US Bikeshare Data with Python forked from Udacity
 
 ## Further Links <a name="Further_Links"></a>
 Git/Github

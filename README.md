@@ -28,7 +28,7 @@ In this repo I provide an oveview of my Github repositories, useful links, publi
 - [Deep Learning with PyTorch](https://github.com/ddhartma/deep-learning-v2-pytorch): Project - Forked Udacity Projects based on Deep Learning
 - [Dog-Breed-Classifier](https://github.com/ddhartma/Dog-Breed-Classifier): Project - Conv Nets to predict the canine’s breed 
 - [TV-Script-Generator](https://github.com/ddhartma/TV-Script-Generator): Project - RNNs to create a "fake" TV script
-- [time-series-prediction-lstm-pytorch](https://github.com/ddhartma/time-series-prediction-lstm-pytorch): Project - Time Series Prediction with LSTM Using PyTorch forked from spdin
+- [time-series-prediction-lstm-pytorch](https://github.com/ddhartma/time-series-prediction-lstm-pytorch): Project - Time Series Prediction using LSTM/PyTorch forked from spdin
 - [Face-Generation-with-DCGANs](https://github.com/ddhartma/Face-Generation-with-DCGANs): Project - Generate new fake images of faces that look as realistic as possible 
 - [PyTorch-GAN](https://github.com/ddhartma/PyTorch-GAN): Project - GAN collection forked from eriklindernoren
 - [ImprovedGAN-pytorch](https://github.com/ddhartma/ImprovedGAN-pytorch): Project - Semi-supervised GAN forked from Sleepychord

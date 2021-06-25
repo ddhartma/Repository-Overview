@@ -25,7 +25,6 @@ In this repo I provide an oveview of my Github repositories, useful links, publi
 - [Machine Learning Concepts](https://github.com/ddhartma/Machine-Learning-Concepts): Theory -  Important Machine Learning algorithms 
 
 ## Deep Learning
-### Matrix Math with NumPy
 - [Matrix Math with NumPy](https://github.com/ddhartma/Matrix-Math-with-Numpy): Theory - Short cheatsheet of matrix math with NumPy 
 - [Deep Learning with PyTorch](https://github.com/ddhartma/deep-learning-v2-pytorch): Project - Forked Udacity Projects based on Deep Learning
 - [Dog-Breed-Classifier](https://github.com/ddhartma/Dog-Breed-Classifier): Project - Conv Nets to predict the canine’s breed 

@@ -21,7 +21,8 @@ In this repo I provide an oveview of my Github repositories, useful links, publi
 - [Spark-Big-Data-Analytics](https://github.com/ddhartma/Spark-Big-Data-Analytics): Theory - Spark tool for fast Big Data Analystics 
 - [Spark-Machine-Learning](https://github.com/ddhartma/Spark-Machine-Learning): Theory - How to use Sparks Machine Learning tools for Big Data 
 - [Sparkify-Project](https://github.com/ddhartma/Sparkify-Project): Project - Use Spark ML to predict users churning from a web service
-- [Machine Learning](#machine_learning)
+
+## Machine Learning (traditional)
 - [Machine Learning Concepts](https://github.com/ddhartma/Machine-Learning-Concepts): Theory -  Important Machine Learning algorithms 
 
 ## Deep Learning

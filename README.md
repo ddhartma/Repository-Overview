@@ -30,6 +30,7 @@ In this repo I provide an oveview of my Github repositories, useful links, publi
 - [Neural-Networks](https://github.com/ddhartma/Neural-Networks): Theory - How does neural networks work?
 - [Machine-Vision](https://github.com/ddhartma/Machine-Vision): Theory - Overview of Machine Vision techniques
 - [Natural-Language-Processing](https://github.com/ddhartma/Natural-Language-Processing): Theory - Overview of Natural Language Processing techniques
+- [Generative-Adversarial-Networks](https://github.com/ddhartma/Generative-Adversarial-Networks): Theory - Overview of Generative Adversarial Networks techniques 
 - [Deep Learning with PyTorch](https://github.com/ddhartma/deep-learning-v2-pytorch): Project - Forked Udacity Projects based on Deep Learning
 - [Dog-Breed-Classifier](https://github.com/ddhartma/Dog-Breed-Classifier): Project - Conv Nets to predict the canine’s breed 
 - [TV-Script-Generator](https://github.com/ddhartma/TV-Script-Generator): Project - RNNs to create a "fake" TV script
@@ -44,7 +45,7 @@ In this repo I provide an oveview of my Github repositories, useful links, publi
 ## Deep Reinforcement Learning
 ### Intro 
 - [Deep-Reinforcement-Learning-Theory-Intro](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Intro): Theory - An Introduction to Deep Reinforcement Learning 
-- [Deep-Reinforcement-Learning-Theory-Chrash-Course](https://medium.com/@nisheed/udacity-deep-reinforcement-learning-project-1-navigation-d16b43793af5): Theory - Another intro to Deep RL
+- [Deep-Reinforcement-Learning-Theory-Crash-Course](https://medium.com/@nisheed/udacity-deep-reinforcement-learning-project-1-navigation-d16b43793af5): Theory - Another intro to Deep RL
 - [An-Introduction-to-Deep-Reinforcement-Learning](https://thomassimonini.medium.com/an-introduction-to-deep-reinforcement-learning-17a565999c0c): Theory - Another intro to Deep RL
 - [Deep-Reinforcement-Learning-Theory-Monte-Carlo-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Monte-Carlo-Methods): Theory - MC Methods 
 - [Deep-Reinforcement-Learning-Theory-Temporal-Difference-Methods](https://github.com/ddhartma/Deep-Reinforcement-Learning-Theory-Temporal-Difference-Methods): Theory - TD Methods 
